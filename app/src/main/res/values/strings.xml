@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Local Vigilante</string>
+    <string name="intro">Hello and welcome!\nOur mobile app is designed for notifying local
+        authorities about the wrong things that you meet in our city everyday!\nThank you and
+        keep on being Vigilante!
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_forgot_password">Forgot password</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="forgot_password">Enter your email address below to reset your password.</string>
+    <string-array name="city_spinner">
+        <item>Alba Iulia</item>
+        <item>Alexandria</item>
+        <item>Arad</item>
+        <item>Bacau</item>
+        <item>Baia Mare</item>
+        <item>Bistrita</item>
+        <item>Botosani</item>
+        <item>Brasov</item>
+        <item>Braila</item>
+        <item>Bucharest</item>
+        <item>Buzau</item>
+        <item>Calarasi</item>
+        <item>Cluj-Napoca</item>
+        <item>Constanta</item>
+        <item>Craiova</item>
+        <item>Deva</item>
+        <item>Drobeta-Turnu Severin</item>
+        <item>Focsani</item>
+        <item>Galati</item>
+        <item>Giurgiu</item>
+        <item>Iasi</item>
+        <item>Miercurea Ciuc</item>
+        <item>Oradea</item>
+        <item>Piatra Neamt</item>
+        <item>Pitesti</item>
+        <item>Ploiesti</item>
+        <item>Ramnicu Valcea</item>
+        <item>Resita</item>
+        <item>Satu Mare</item>
+        <item>Sfantu Gheorghe</item>
+        <item>Sibiu</item>
+        <item>Slatina</item>
+        <item>Slobozia</item>
+        <item>Suceava</item>
+        <item>Targoviste</item>
+        <item>Targu Jiu</item>
+        <item>Targu Mures</item>
+        <item>Timisoara</item>
+        <item>Tulcea</item>
+        <item>Vaslui</item>
+        <item>Zalau</item>
+    </string-array>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
